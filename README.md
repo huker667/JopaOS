@@ -7,3 +7,12 @@ How to install?:
 3. Done.
 
 !!!WARNING!!! COMPUTER NEED INTERNET-CARD!
+
+# About JopaOS
+Languages:
+• Russian
+Minimal Requires:
+• HDD (1 Level)
+• Internet-Card
+• Videocard (1 Level)
+• RAM (1.5 level)
