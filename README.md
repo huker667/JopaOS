@@ -1,5 +1,5 @@
 # JopaOS
-JopaOS this is a mod system OpenComputers mod in Minecraft.
+JopaOS this is a Lua-System OpenComputers mod in Minecraft.
 
 # Install
 1. Install OpenOS on your computer.
