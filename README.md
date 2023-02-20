@@ -17,3 +17,8 @@ Minimal Requires:
 • Internet-Card
 • Videocard (1 Level)
 • RAM (1.5 level)
+
+Commands:
+• олег
+• drochka
+• shutdown
