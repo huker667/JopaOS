@@ -11,6 +11,7 @@ JopaOS this is a mod system OpenComputers mod in Minecraft.
 # About JopaOS
 Languages:
 • Russian
+
 Minimal Requires:
 • HDD (1 Level)
 • Internet-Card
